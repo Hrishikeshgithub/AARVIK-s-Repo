@@ -1,0 +1,9 @@
+venv\Scripts\activate 
+
+uvicorn server:app --reload  
+streamlit run app.py    
+
+
+
+
+python test_mongo.py
