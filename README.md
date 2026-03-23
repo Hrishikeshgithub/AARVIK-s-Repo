@@ -131,8 +131,8 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
 
-Author: [Your Name]
-Email: [your.email@example.com]
-GitHub: [https://github.com/your-username]
+Author: [Hrishikesh Shiralaskar ]
+Email: [hrishikeshshiralaskar@gmail.com]
+GitHub: [https://github.com/Hrishikeshgithub]
 
 Feel free to open an issue or reach out for support or collaboration!
